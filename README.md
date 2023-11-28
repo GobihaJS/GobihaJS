@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GobihaJS
 - 👀 I’m interested in developing
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on u
 - 📫 How to reach me @ mailtogobiha@gmail.com
 
 <!---
